@@ -1,0 +1,33 @@
+GtkWindow {
+    font-size: 10px;
+}
+
+.my_class {
+    font: /*Riwaj, KacstNaskh, mry_KacstQurn, Thabit, B Ferdosi,A_Nefel_Sereki,*/ me_quran, A_Nefel_Adeti, mry_KacstQurn, KacstBook, KFGQPC Uthman Taha Naskh, Traditional Arabic ;
+	font-size: 20px;
+}
+.my_class_en {
+font:  Georgia;
+	font-size: 20px;
+
+}
+.my_class_bn{
+font: SolaimanLipi;
+	font-size: 20px;
+	/* background-color: #000000; */
+
+}
+
+.my_combobox {
+	font: Monofur
+	color: #000000;
+	background-color: #ffffff;
+}
+
+/* headerbar enty, */
+/* headerbar spinbutton, */
+/* headerbar button, */
+/* headerbar separatot { */
+/* 	margin-top: 0px; */
+/* 	margin-bottom: 0px; */
+/* } */
