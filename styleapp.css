@@ -1,33 +1,42 @@
 GtkWindow {
-    font-size: 10px;
-}
-
-.my_class {
-    font: /*Riwaj, KacstNaskh, mry_KacstQurn, Thabit, B Ferdosi,A_Nefel_Sereki,*/ me_quran, A_Nefel_Adeti, mry_KacstQurn, KacstBook, KFGQPC Uthman Taha Naskh, Traditional Arabic ;
 	font-size: 20px;
+	color: #ffffff;
+	background-color: #000000;
 }
-.my_class_en {
-font:  Georgia;
+ .my_class {
+	font-size: 30px;
+	color: white;
+}
+/* .my_class {
+  font-family:  SolaimanLipi, KacstBook, Helvetica, Arial, Riwaj, KacstNaskh, mry_KacstQurn, Thabit, B Ferdosi,A_Nefel_Sereki, me_quran, A_Nefel_Adeti, mry_KacstQurn, KacstBook, KFGQPC Uthman Taha Naskh, Traditional Arabic ;
+	font-size: 40px;
+} */
+/* .my_class_en {
+font-family:  Georgia;
 	font-size: 20px;
 
 }
 .my_class_bn{
-font: SolaimanLipi;
+font-family: SolaimanLipi;
 	font-size: 20px;
-	/* background-color: #000000; */
+	background-color: #000000;
 
+} */
+
+/* .my_combobox {
+	font-family: Helvetica, Monofur;
+	font-size: 16px;
+} */
+
+/* spinbutton, button {
+    min-height: 1.8rem;
 }
-
-.my_combobox {
-	font: Monofur
-	color: #000000;
-	background-color: #ffffff;
+.view button {
+    min-height: 2.0rem;
 }
-
-/* headerbar enty, */
-/* headerbar spinbutton, */
-/* headerbar button, */
-/* headerbar separatot { */
-/* 	margin-top: 0px; */
-/* 	margin-bottom: 0px; */
-/* } */
+entry {
+    min-height: 2.4rem;
+}
+entry.cell {
+    min-height: 0;
+} */
