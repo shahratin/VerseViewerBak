@@ -1,1 +1,1 @@
-![Alt text](Preview.png?raw=true "Preview")
+![Alt text](https://github.com/shahratin/VerseViewer/blob/master/Preview.PNG?raw=true "Preview")
